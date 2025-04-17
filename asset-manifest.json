@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Make_In_India_Defence_Projects/static/css/main.477a2c27.css",
+    "main.js": "/Make_In_India_Defence_Projects/static/js/main.75ae134b.js",
+    "static/js/453.5ece67b2.chunk.js": "/Make_In_India_Defence_Projects/static/js/453.5ece67b2.chunk.js",
+    "index.html": "/Make_In_India_Defence_Projects/index.html",
+    "main.477a2c27.css.map": "/Make_In_India_Defence_Projects/static/css/main.477a2c27.css.map",
+    "main.75ae134b.js.map": "/Make_In_India_Defence_Projects/static/js/main.75ae134b.js.map",
+    "453.5ece67b2.chunk.js.map": "/Make_In_India_Defence_Projects/static/js/453.5ece67b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477a2c27.css",
+    "static/js/main.75ae134b.js"
+  ]
+}
