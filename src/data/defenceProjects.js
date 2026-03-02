@@ -1,6 +1,6 @@
 const defenceProjects = [
     {
-      name: "HAL Tejas",
+      name: "HAL Tejas Latest Gen-V",
       category: "Aircraft",
       organization: "HAL / DRDO",
       inductionYear: 2016,
